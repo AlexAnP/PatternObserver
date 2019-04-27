@@ -21,7 +21,7 @@ static class Program
 
         cooler.Update(thermostat.CurrentTemperature);
 
-
+        Console.ReadLine();
     }
 }
 
